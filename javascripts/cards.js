@@ -17,7 +17,7 @@
       actions: ["Focus", "Target Lock"]
     },
     "BTL-S3 Y-Wing": {
-      name: "Y-Wing",
+      name: "BTL-S3 Y-Wing",
       faction: "Rebel Alliance",
       attack: 2,
       agility: 1,
@@ -26,7 +26,7 @@
       actions: ["Focus", "Target Lock"]
     },
      "BTL-A4 Y-Wing": {
-      name: "Y-Wing",
+      name: "BTL-A4 Y-Wing",
       faction: "Rebel Alliance",
       attack: 2,
       agility: 1,
@@ -195,17 +195,17 @@
     "Gray Squadron Pilot": {
       name: "Gray Squadron Pilot",
       id: 6,
-      ship: "Y-Wing",
+      ship: "BTL-S3 Y-Wing",
       sources: ["Y-Wing Expansion Pack"],
       skill: 4,
       points: 20,
-      slots: ["Turret", "Torpedo", "Torpedo", "Astromech"]
+      slots: ["Turret", "Torpedo", "Torpedo", "Crew", "Astromech"]
     },
     '"Dutch" Vander': {
       name: '"Dutch" Vander',
       id: 7,
       unique: true,
-      ship: "Y-Wing",
+      ship: "BTL-A4 Y-Wing",
       sources: ["Y-Wing Expansion Pack"],
       skill: 6,
       points: 23,
@@ -216,17 +216,17 @@
       name: "Horton Salm",
       id: 8,
       unique: true,
-      ship: "Y-Wing",
+      ship: "BTL-S3 Y-Wing",
       sources: ["Y-Wing Expansion Pack"],
       skill: 8,
       points: 25,
-      slots: ["Turret", "Torpedo", "Torpedo", "Astromech"],
+      slots: ["Turret", "Torpedo", "Torpedo", "Crew", "Astromech"],
       text: "When attacking at Range 2-3, you may reroll any of your blank results."
     },
     "Gold Squadron Pilot": {
       name: "Gold Squadron Pilot",
       id: 9,
-      ship: "Y-Wing",
+      ship: "BTL-A4 Y-Wing",
       sources: ["Y-Wing Expansion Pack"],
       skill: 2,
       points: 18,
