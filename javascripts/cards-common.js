@@ -40,7 +40,17 @@
           actions: ["Focus", "Target Lock"],
           maneuvers: [[0, 0, 0, 0, 0, 0], [0, 2, 2, 2, 0, 0], [1, 1, 2, 1, 1, 0], [1, 1, 1, 1, 1, 0], [0, 0, 1, 0, 0, 3]]
         },
-        "Y-Wing": {
+        "BTL-S3 Y-Wing": {
+          name: "Y-Wing",
+          factions: ["Rebel Alliance", "Scum and Villainy"],
+          attack: 2,
+          agility: 1,
+          hull: 5,
+          shields: 3,
+          actions: ["Focus", "Target Lock"],
+          maneuvers: [[0, 0, 0, 0, 0, 0], [0, 1, 2, 1, 0, 0], [1, 1, 2, 1, 1, 0], [3, 1, 1, 1, 3, 0], [0, 0, 3, 0, 0, 3]]
+        },
+        "BTL-A4 Y-Wing": {
           name: "Y-Wing",
           factions: ["Rebel Alliance", "Scum and Villainy"],
           attack: 2,
