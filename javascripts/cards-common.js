@@ -375,16 +375,16 @@
           name: "Gray Squadron Pilot",
           faction: "Rebel Alliance",
           id: 6,
-          ship: "Y-Wing",
+          ship: "BTL-S3 Y-Wing",
           skill: 4,
           points: 20,
-          slots: ["Turret", "Torpedo", "Torpedo", "Astromech"]
+          slots: ["Turret", "Torpedo", "Torpedo", "Crew", "Astromech"]
         }, {
           name: '"Dutch" Vander',
           faction: "Rebel Alliance",
           id: 7,
           unique: true,
-          ship: "Y-Wing",
+          ship: "BTL-A4 Y-Wing",
           skill: 6,
           points: 23,
           slots: ["Turret", "Torpedo", "Torpedo", "Astromech"]
@@ -393,15 +393,15 @@
           faction: "Rebel Alliance",
           id: 8,
           unique: true,
-          ship: "Y-Wing",
+          ship: "BTL-S3 Y-Wing",
           skill: 8,
           points: 25,
-          slots: ["Turret", "Torpedo", "Torpedo", "Astromech"]
+          slots: ["Turret", "Torpedo", "Torpedo", "Crew", "Astromech"]
         }, {
           name: "Gold Squadron Pilot",
           faction: "Rebel Alliance",
           id: 9,
-          ship: "Y-Wing",
+          ship: "BTL-A4 Y-Wing",
           skill: 2,
           points: 18,
           slots: ["Turret", "Torpedo", "Torpedo", "Astromech"]
