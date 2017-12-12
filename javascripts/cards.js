@@ -16,7 +16,16 @@
       shields: 2,
       actions: ["Focus", "Target Lock"]
     },
-    "Y-Wing": {
+    "BTL-S3 Y-Wing": {
+      name: "Y-Wing",
+      faction: "Rebel Alliance",
+      attack: 2,
+      agility: 1,
+      hull: 5,
+      shields: 3,
+      actions: ["Focus", "Target Lock"]
+    },
+     "BTL-A4 Y-Wing": {
       name: "Y-Wing",
       faction: "Rebel Alliance",
       attack: 2,
