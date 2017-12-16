@@ -39,8 +39,8 @@ exportObj.basicCardData = ->
               [ 1, 1, 1, 1, 1, 0]
               [ 0, 0, 1, 0, 0, 3]
             ]
-        "Y-Wing":
-            name: "Y-Wing"
+        "BTL-S3 Y-Wing":
+            name: "BTL-S3 Y-Wing"
             factions: [ "Rebel Alliance", "Scum and Villainy", ]
             attack: 2
             agility: 1
@@ -1218,13 +1218,14 @@ exportObj.basicCardData = ->
             name: "Gray Squadron Pilot"
             faction: "Rebel Alliance"
             id: 6
-            ship: "Y-Wing"
+            ship: "BTL-S3 Y-Wing"
             skill: 4
             points: 20
             slots: [
                 "Turret"
                 "Torpedo"
                 "Torpedo"
+                "Crew"
                 "Astromech"
             ]
         }
@@ -1248,13 +1249,14 @@ exportObj.basicCardData = ->
             faction: "Rebel Alliance"
             id: 8
             unique: true
-            ship: "Y-Wing"
+            ship: "BTL-S3 Y-Wing"
             skill: 8
             points: 25
             slots: [
                 "Turret"
                 "Torpedo"
                 "Torpedo"
+                "Crew"
                 "Astromech"
             ]
         }
@@ -5157,6 +5159,21 @@ exportObj.basicCardData = ->
             ]
             points: 35
             applies_condition: '''I'll Show You the Dark Side'''.canonicalize()
+        }
+           {
+            name: "Gray Squadron Veteran"
+            faction: "Rebel Alliance"
+            id: 287
+            ship: "BTL-S3 Y-Wing"
+            skill: 6
+            points: 22
+            slots: [
+                "Turret"
+                "Torpedo"
+                "Torpedo"
+                "Crew"
+                "Astromech"
+            ]
         }
     ]
 
